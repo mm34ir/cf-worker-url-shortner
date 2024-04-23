@@ -2,9 +2,9 @@ name = "cf-worker-url-shortner"
 compatibility_date = "2023-12-01"
 
 [vars]
-API_TOKEN = ""
+API_TOKEN = "lyqIueaGKdgUHtOo9sgXZXpgOeTehbNKWt5tbNDv"
 
 [[d1_databases]]
 binding = "D1_Database"
 database_name = "url-shortner"
-database_id = ""
+database_id = "33582a59-d264-44a5-81de-70b90f9d2504"
